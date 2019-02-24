@@ -5,95 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7305cf2c-bf8f-4a61-9141-08e25fdb386c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula04PrimeiraClasse/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula04PrimeiraClasse/ExercicioAula04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula05TiposPrimitivos/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula05TiposPrimitivos/ClasseB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseD$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseD$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseD$C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseD$D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula09Constantes/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula09Constantes/Carta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula09Constantes/TrueOrFalse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula10Heranca/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula10Heranca/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula10Heranca/Horas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula10Heranca/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula10Heranca/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula10Heranca/Turno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Analista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Implantador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/ImplantadorJunior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Programador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Ford.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Moto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Veiculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Yamaha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Aula$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Aula$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Aula.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula04PrimeiraClasse/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula04ClasseObjetoAtributo/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula04PrimeiraClasse/ExercicioAula04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula04ClasseObjetoAtributo/ExercicioAula04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula05TiposPrimitivos/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula05TiposPrimitivosEhObjetos/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula05TiposPrimitivos/ClasseB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula05TiposPrimitivosEhObjetos/ClasseB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06Atributos/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06VisibilidadeMetodosClassesAtributos/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06VisibilidadeMetodosClassesAtributos/ClasseA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06Atributos/ClasseD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06VisibilidadeMetodosClassesAtributos/ClasseD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula09Constantes/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula09ConstantesStaticEnum/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula09Constantes/Carta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula09ConstantesStaticEnum/Carta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula09Constantes/TrueOrFalse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula09ConstantesStaticEnum/TrueOrFalse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10Heranca/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10UsoDaHeranca/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10Heranca/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10UsoDaHeranca/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10Heranca/Horas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10UsoDaHeranca/Horas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10Heranca/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10UsoDaHeranca/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10Heranca/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10UsoDaHeranca/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10Heranca/Turno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula10UsoDaHeranca/Turno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaDeMetodos/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaDeMetodos/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaDeMetodos/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaMetodo/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula11SobrescritaDeMetodos/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Analista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClassesAbstratas/Analista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClassesAbstratas/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClassesAbstratas/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Implantador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClassesAbstratas/Implantador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/ImplantadorJunior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClassesAbstratas/ImplantadorJunior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClasseAbstrata/Programador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula12ClassesAbstratas/Programador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13PolimorfismoPorHeranca/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13PolimorfismoPorHeranca/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Ford.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13PolimorfismoPorHeranca/Ford.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13PolimorfismoPorHeranca/Moto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13PolimorfismoPorHeranca/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13Polimorfismo/Yamaha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula13PolimorfismoPorHeranca/Yamaha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasDeExecucaoDeConstrutores/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/ClasseB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasDeExecucaoDeConstrutores/ClasseB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasDeExecucaoDeConstrutores/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula15RegrasDeExecucaoDeConstrutores/PessoaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula16MetodoEstaticos/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula16AtributosEhMetodosEstaticos/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula16MetodoEstaticos/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula16AtributosEhMetodosEstaticos/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula17MembrosEstaticos/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula17BlocoEstaticosEhBlocoDeInstancia/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula17MembrosEstaticos/Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula17BlocoEstaticosEhBlocoDeInstancia/Exercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClasseInternaRegular/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/CalculaIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClasseInternaRegular/CalculaIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClasseInternaRegular/Exercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula18ClasseInternaRegular/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasMetLocal/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasDeMetodoLocal/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasMetLocal/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasDeMetodoLocal/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula21CoesaoEhAcoplamento/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula21AltaCoesaoEhBaixoAcoplamento/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula22InterfacesApartirJava08/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula22NovasRegrasOaraInterfacesApartirJava08/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula24OrientacaoObjetos/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula24ConvencaoCodigoJava/Aula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/META-INF/curso-java-oo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula07Encapsulamento/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula07Encapsulamento/ExercicioLivro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula07Encapsulamento/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula07Encapsulamento/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula08Construtores/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula08Construtores/Exercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula08Construtores/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula08Construtores/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/AVI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/Audio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/MP3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/PlayerVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/RMV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula14Interfaces/WMV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/ClasseB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula15RegrasConstrutores/PessoaFisica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula16MetodoEstaticos/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula16MetodoEstaticos/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula17MembrosEstaticos/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula17MembrosEstaticos/Exercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/CalculaIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Exercicio$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Exercicio$MyInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Exercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Pessoa$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Pessoa$Idade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula18ClassesAninhadas_RegularInterna/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasMetLocal/Aula$1Calculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasMetLocal/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasMetLocal/MyClass$MyStaticClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula19ClassesInternasEstaticasMetLocal/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Adicao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Aula$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Aula$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Calculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Executa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula20ClasseInternaAnonima/Multiplicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula21CoesaoEhAcoplamento/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula22InterfacesApartirJava08/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Aula$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/aula23InterfaceFuncionalExpLambda/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesAmigaveis/Aplicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesAmigaveis/ContaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesPropagadas/AplicacaoExcecao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesPropagadas/Banco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesTratadas/AplicacaoexcecaoTratada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesTratadas/BancoExcecaoTratada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesTratadas/ContaBancariaTratada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesTratadas/SaldoInsuficienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso-java-oo/br/com/devmedia/curso_java_oo/softBlue/ExcecoesTratadas/ValorNegativoException.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +78,17 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06VisibilidadeMetodosClassesAtributos/Aula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -188,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -218,6 +198,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="curso_java_oo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="curso-java-oo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso-java-oo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="curso_java_oo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula06VisibilidadeMetodosClassesAtributos" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -226,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550967095527" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550968142131" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -241,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aula (2)">
+  <component name="RunManager" selected="Application.Aula (1)">
     <configuration name="Aula (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.devmedia.curso_java_oo.aula06VisibilidadeMetodosClassesAtributos.Aula" />
       <module name="curso-java-oo" />
@@ -309,9 +296,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula (1)" />
         <item itemvalue="Application.Aula (2)" />
         <item itemvalue="Application.Aula (4)" />
-        <item itemvalue="Application.Aula (1)" />
         <item itemvalue="Application.Aula" />
         <item itemvalue="Application.ExercicioAula04" />
       </list>
@@ -332,6 +319,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28389263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -718,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06VisibilidadeMetodosClassesAtributos/Aula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula07Encapsulamento/Aula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-20">
@@ -802,6 +783,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/devmedia/curso_java_oo/aula06VisibilidadeMetodosClassesAtributos/Aula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
